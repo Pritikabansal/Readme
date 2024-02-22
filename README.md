@@ -14,6 +14,7 @@ cout<<"programming">>;
 
 CONNECT WITH ME ON DIFFERENT WEB:
 #0A66C2  #FF0000  
+<icon>#FF0000<icon/>
 
 <picture>
   <source
